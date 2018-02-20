@@ -38,6 +38,6 @@
     "react-router-dom": "^4.2.2",
     "webpack": "^3.11.0",
     "postinstall": "webpack",
-    "heroku-postbuild": "webpack -p"
+    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
   }
 }
