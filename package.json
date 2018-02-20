@@ -37,6 +37,7 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "webpack": "^3.11.0",
+    "webpack-dev-server": "^1.14.0",
     "postinstall": "webpack",
     "heroku-postbuild": "webpack -p"
   }
